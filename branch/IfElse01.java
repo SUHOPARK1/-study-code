@@ -11,6 +11,8 @@ package branch;
 
 // 혹은 특정 조건을 만족했을 경우와 그 외의 모든 경우
 // 두가지로 나뉠때에도 if else 구조가 나오게 된다.
+
+
 public class IfElse01 {
     public static void main(String[] args) {
         int number = -3;
@@ -18,8 +20,22 @@ public class IfElse01 {
             System.out.println("음수입니다.");
         }else {
             System.out.println("자연수입니다.");
-           
         }
     }
-
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

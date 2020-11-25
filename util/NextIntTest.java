@@ -1,8 +1,8 @@
-package util;
+package day08;
 
 import java.util.Scanner;
 
-
+import util.ScannerUtil;
 
 public class NextIntTest {
     public static void main(String[] args) {

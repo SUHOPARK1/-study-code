@@ -1,6 +1,6 @@
 package util;
 import java.util.Random;
-
+import java.util.Scanner;
 public class Sort {
 	public int[] randomArr(int begin, int length, int end) {
 		int[] arr = new int[length];
